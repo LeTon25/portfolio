@@ -42,7 +42,7 @@ h3 {
   font-size: 18px;
 }
 .avatar{
-  max-width: 100%;
+  max-width: 60%;
   aspect-ratio: 1/1;
 }
 .pro-img{
@@ -53,5 +53,5 @@ h3 {
   aspect-ratio: 1/1.4;
 }
 .right{
-  margin-left: 30%;
+  margin-left: 25%;
 }
